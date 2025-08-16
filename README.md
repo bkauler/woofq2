@@ -1,5 +1,4 @@
 # woofq2
-Successor to woofQ for building EasyOS
 
 ![logo](easy128.png)
 
